@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Kottayam Explorer",
+  "description": "Explore points of interest, restaurants, and notable locations in Kottayam city using Google Maps data via the Gemini API.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
